@@ -1,6 +1,8 @@
 import Header from '../components/header'
 import Navbar from '../components/Navbar'
 import BlogList from '../components/BlogList'
+import Newsletter from '../components/Newsletter'
+import Footer from '../components/Footer'
 
 
 const Home = () => {
@@ -9,6 +11,8 @@ const Home = () => {
       <Navbar />
       <Header/>
       <BlogList/>
+      <Newsletter/>
+      <Footer/>
     </>
   )
 }

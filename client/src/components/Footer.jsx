@@ -33,9 +33,9 @@ const Footer = () => {
             </div>
             ))}
         </div>
-
+            
       </div>
-      
+    
       {/* Copyright Footer Section */}
       <p className='py-4 text-center text-xs md:text-sm text-gray-500'>
         Copyright 2025 @ QuickBlog GreatStack - All Right Reserved.

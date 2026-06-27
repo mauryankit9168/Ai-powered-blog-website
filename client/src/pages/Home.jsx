@@ -1,4 +1,4 @@
-import Header from '../components/header'
+import Header from '../components/Header'
 import Navbar from '../components/Navbar'
 import BlogList from '../components/BlogList'
 import Newsletter from '../components/Newsletter'
